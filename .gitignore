@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+
+# 其他需要忽略的具体文件或文件夹
+paper/
+reference/
+FED_columns_explained.xlsx
+file_tree.txt
+supplementary materials.docx
+
+
+
+S5_data_analysis/emoji_image/*
+S5_data_analysis/gender_comparison/*
+S5_data_analysis/images/*
+S5_data_analysis/seperate_data_of_each_emoji/*
+S5_data_analysis/seperate_data_of_each_emoji_raw/*
+
+
+!S5_data_analysis/emoji_image/.gitkeep
+!S5_data_analysis/gender_comparison/.gitkeep
+!S5_data_analysis/images/.gitkeep
+!S5_data_analysis/seperate_data_of_each_emoji/.gitkeep
+!S5_data_analysis/seperate_data_of_each_emoji_raw/.gitkeep
+
+S5_data_analysis/drop_out_ratio.csv
+S5_data_analysis/drop_out_ratio.xlsx
+S5_data_analysis/emo_amb_spearman_corr.xlsx
+S5_data_analysis/emoji_unicode.txt
+S5_data_analysis/emoji_vectors_counts.pkl
+S5_data_analysis/gender_comparison_t_test_result.xlsx
+S5_data_analysis/ICC_result.xlsx
+S5_data_analysis/interval.json
+S5_data_analysis/mean_std.xlsx
+S5_data_analysis/meaning_amb_spearman_corr.xlsx
+S5_data_analysis/Supplementary_material_cross_culture_comparison_of_ambiguity.xlsx
+S5_data_analysis/Supplementary_material_cross_culture_comparison_of_emotional_dimensions.xlsx
+S5_data_analysis/VA_Ekman_spearman_corr.xlsx
