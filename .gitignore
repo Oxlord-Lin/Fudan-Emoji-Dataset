@@ -9,7 +9,7 @@ ENV/
 .idea/
 
 
-# 其他需要忽略的具体文件或文件夹
+
 paper/
 reference/
 FED_columns_explained.xlsx
@@ -44,3 +44,4 @@ S5_data_analysis/meaning_amb_spearman_corr.xlsx
 S5_data_analysis/Supplementary_material_cross_culture_comparison_of_ambiguity.xlsx
 S5_data_analysis/Supplementary_material_cross_culture_comparison_of_emotional_dimensions.xlsx
 S5_data_analysis/VA_Ekman_spearman_corr.xlsx
+S5_data_analysis/dataset_for_experiment_with_supplementary_descriptions_by_participants.xlsx
